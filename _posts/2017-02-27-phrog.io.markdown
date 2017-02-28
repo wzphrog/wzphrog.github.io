@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "initial commit."
+date:   2017-02-27 19:32:01 -0700
+categories: nerdy
+---
+
+Trying new things today.
