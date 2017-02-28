@@ -5,4 +5,4 @@ date:   2017-02-27 19:32:01 -0700
 categories: nerdy
 ---
 
-Trying new things today.
+Trying new things today. Hopefully will learn some markup for this sucka!
