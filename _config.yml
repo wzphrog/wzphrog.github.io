@@ -16,7 +16,7 @@
 title: phrog.io
 email: phrog@phrog.io
 description: > # this means to ignore newlines until "baseurl:"
-  phrog.io has no use at all, it may end up being someplace worth a shit.. for now it is not.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://phrog.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phrog
