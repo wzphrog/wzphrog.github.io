@@ -9,7 +9,10 @@ ruby RUBY_VERSION
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "3.3.1"
+#gem "jekyll", "3.3.1"
+
+gem "jekyll", ">= 3.6.3"
+
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "2.0.0"
@@ -32,4 +35,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # phrog upgrade
 gem "nokogiri", ">= 1.10.8"
 gem "json", ">= 2.3.0"
+gem "ffi", ">= 1.9.24"
+gem "json", ">= 2.3.0"
+
+
 
